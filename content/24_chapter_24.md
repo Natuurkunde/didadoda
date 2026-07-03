@@ -2,7 +2,7 @@
 author: name
 ---
 
-# Hoofdstuk titel 
+# Dit is een supertoffe workshop
  
  Hoofdstukinhoud hier.
  
