@@ -16,8 +16,10 @@ Leerdoelen zijn bij een begripspracticum afhankelijk van de inhoud van de les. B
 •	Het belang van het doen van een voorspelling kunnen toelichten in het kader van onderzoek of een ontwerptoepassing.
 
 ## Beschrijving en voorbeeld
-|Wat?	|Algemeen	Voorbeeld |Massaverhoudingen chemische reacties
-|Samenvatting|
+|Wat?	|Algemeen |	Voorbeeld |
+| --- | --- | ---| 
+| Massaverhoudingen chemische reacties | Samenvatting|
+
 De leerlingen krijgen twee opeenvolgende opdrachten:
 1.	Bepaal een grootheid aan de hand van een experiment;
 2.	Gebruik die grootheid om een voorspelling van een resultaat te doen in een specifieke situatie.
