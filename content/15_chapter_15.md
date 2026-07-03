@@ -2,12 +2,14 @@
 author: Paul doorschot
 ---
 
-# Lenzenpracticum <br>
+# Lenzenpracticum
  
-**Doel** <br>
+**Doel** 
+
 Kennismaken met een alternatieve methode om optica(demo)proeven mee te doen in jouw klassen.
 
-**Instructie** <br>
+**Instructie**
+
 Zet twee spelden achter elkaar (speld 1 en 2) en ga recht voor een opstelling zitten zoals je die ziet in onderstaande figuur. Kijk door de planparallelle plaat en zet speld 3 en 4 recht achter speld 1 en 2, zodat je alle vier de spelden ziet op één lijn.
 
 Onderzoek bijvoorbeeld: spiegel, planparallelle plaat, positieve lens, ovaal, ...
@@ -20,7 +22,7 @@ Onderzoek bijvoorbeeld: spiegel, planparallelle plaat, positieve lens, ovaal, ..
  onderschrift 
  ```
 
-**Nabespreken**<br>
-1 Wat zijn voordelen van speldenpracticum boven lichtkastjes? <br>
-2 Wat zijn nadelen van speldenpracticum boven lichtkastjes? <br>
-3 Zou jij het speldenpracticum zelf inzetten in jouw lessen?
+**Nabespreken**
+1. Wat zijn voordelen van speldenpracticum boven lichtkastjes?
+2. Wat zijn nadelen van speldenpracticum boven lichtkastjes? 
+3. Zou jij het speldenpracticum zelf inzetten in jouw lessen?
